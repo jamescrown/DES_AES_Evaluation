@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="controlP5">
+    <archive path="C:/processing-3.3.7-windows64/processing-3.3.7/core/library/controlP5.jar" />
+  </library>
+  <library name="core">
+    <archive path="C:/processing-3.3.7-windows64/processing-3.3.7/core/library/core.jar" />
+  </library>
+</eclipse-userlibraries>
+
